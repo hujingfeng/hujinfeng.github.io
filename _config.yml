@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinfeng Hu (胡劲风)"
+title                    : "Jingfeng Hu (胡劲风)"
 title_separator          : "-"
-name                     : &name "Jinfeng Hu (胡劲风)"
+name                     : &name "Jingfeng Hu (胡劲风)"
 description              : &description "Master at Zhejiang University"
-url                      : https://hujinfeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hujingfeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hujingfeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jinfeng Hu (胡劲风)"
+  name             : "Jingfeng Hu (胡劲风)"
   avatar           : "证件照01的副本.png"
   bio              : "Master Student @ Zhejiang University"
   location         : "Hangzhou, China"
