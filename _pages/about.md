@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Jingfeng Hu (胡劲风 in Chinese). I am currently a Master student at Zhejiang University, advised by Dr. [Kai Bu](https://list.zju.edu.cn/kaibu/). Before coming to Zhejiang University, I obtained my bachelor degree of Engineering from School of Computer Science, Hangzhou Dianzi University.
+Hi~ I am Jinfeng Hu (胡劲风 in Chinese). I am currently a Master student at Zhejiang University, advised by Dr. [Kai Bu](https://list.zju.edu.cn/kaibu/). Before coming to Zhejiang University, I obtained my bachelor degree of Engineering from School of Computer Science, Hangzhou Dianzi University.
 
 ---
