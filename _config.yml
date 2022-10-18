@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jingfeng Hu (胡劲风)"
+title                    : "Jinfeng Hu (胡劲风)"
 title_separator          : "-"
-name                     : &name "Jingfeng Hu (胡劲风)"
+name                     : &name "Jinfeng Hu (胡劲风)"
 description              : &description "Master at Zhejiang University"
 url                      : https://hujingfeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jingfeng Hu (胡劲风)"
+  name             : "Jinfeng Hu (胡劲风)"
   avatar           : "证件照01的副本.png"
   bio              : "Master Student @ Zhejiang University"
   location         : "Hangzhou, China"
